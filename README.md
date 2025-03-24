@@ -50,9 +50,4 @@ pip install tensorflow numpy pandas scikit-learn matplotlib
 - Experiment with different feature extraction techniques
 - Optimize training with data augmentation and transfer learning
 
-## Contributors
-- **Your Name** (Project Lead)
-
-## License
-This project is licensed under the MIT License.
 
